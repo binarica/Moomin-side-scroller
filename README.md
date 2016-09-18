@@ -7,7 +7,7 @@ Endless flying game done in ActionScript 3.
 Usage
 =====
 
-Compile with Flash Builder, then open `bin-debug/index.html` in your browser.
+Compile with Flash Builder 4.6, then open `bin-debug/index.html` in your browser.
 
 Disclaimer
 ==========
